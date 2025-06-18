@@ -15,18 +15,15 @@
 Windows 10/11 系统（支持 Dism 命令和批处理脚本）。
 管理员权限（脚本自动检测请求权限）。
 # 使用步骤
-下载脚本：
+1.下载脚本：
 https://github.com/your-repo/recall-management-script.git  
-   
-# 运行脚本：
-双击执行 manage_recall.bat，或通过命令行：
-bash
-     .\manage_recall.bat  
-     
+
+2.运行脚本：
+双击执行运行
 根据菜单提示输入选项（1-4）执行操作。
+
 # 脚本截图示例
-
-
+ ![Uploading Ashampoo_Snap_2025年6月18日星期三_10h39m25s.jpg…]()
 
 # 许可证
 本项目采用 MIT License，可自由修改和分发。
