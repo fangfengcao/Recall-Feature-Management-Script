@@ -21,7 +21,7 @@
 
 ## 使用步骤
 ### 1.下载脚本：
-https://github.com/your-repo/recall-management-script.git  
+[https://github.com/your-repo/recall-management-script.git]
 
 ### 2.运行脚本：
 双击执行运行
